@@ -1,0 +1,17 @@
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\bin\Debug\net6.0-windows\Weather Application.exe
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\bin\Debug\net6.0-windows\Weather Application.deps.json
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\bin\Debug\net6.0-windows\Weather Application.runtimeconfig.json
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\bin\Debug\net6.0-windows\Weather Application.dll
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\bin\Debug\net6.0-windows\Weather Application.pdb
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.csproj.AssemblyReference.cache
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather_Application.Form1.resources
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.csproj.GenerateResource.cache
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.AssemblyInfoInputs.cache
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.AssemblyInfo.cs
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.dll
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\refint\Weather Application.dll
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.pdb
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\Weather Application.genruntimeconfig.cache
+C:\Users\Tumi\source\repos\Weather Application\Weather Application\obj\Debug\net6.0-windows\ref\Weather Application.dll
